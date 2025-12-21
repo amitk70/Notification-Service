@@ -67,4 +67,9 @@ public class Product {
     public void setEmail(String email) {
         this.email = email;
     }
+    public boolean equals(String email) {
+        if(this.email = email){
+            return true;;
+    }
 }
+
